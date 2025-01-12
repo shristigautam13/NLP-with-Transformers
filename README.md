@@ -34,7 +34,7 @@ All credit for the concepts, code, and content goes to the authors of the book:
 - **Leandro von Werra**  
 - **Thomas Wolf**  
 
-I am merely a reader and learner who has created these notes for personal reference and to share knowledge with the community.  
+I am merely a reader & learner who has created these notes for personal reference and to share knowledge with the community.  
 
 If you enjoy the content here, please support the authors by purchasing the book or subscribing to O'Reilly.  
 
